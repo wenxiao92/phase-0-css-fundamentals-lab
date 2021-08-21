@@ -3,3 +3,25 @@ body {
   height: 100%;
   margin: 0;
 }
+
+header{ text-align: center;}
+
+figure{text-align: center;}
+
+nav a{text-align: center;
+  background-color: yellow;
+  padding:10px;}
+
+figure ~ p{
+           width: 800px;
+           text-align: center;
+           margin:10px auto;
+           }
+
+section div{float:left;
+            background-color: red;
+            width: 25%;
+            text-align: center;
+            }
+
+  
